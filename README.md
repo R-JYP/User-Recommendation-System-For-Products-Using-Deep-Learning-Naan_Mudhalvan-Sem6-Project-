@@ -11,8 +11,10 @@ recommendation system that can analyze past sales data and generate accurate pro
 recommendations for individual users. The system should be capable of understanding 
 user preferences, identifying patterns, and suggesting items that align with the user's 
 interests.
+
 Dataset used : sample_sales_data.csv
+
 Code for generating the dataset using faker library to generate random names and 
 words for users and items, respectively.
-Step 1 : !pip install faker
+ !pip install faker
 
